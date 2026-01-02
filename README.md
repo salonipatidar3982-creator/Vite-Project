@@ -19,4 +19,4 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/salonipatidar3982-creater/Vite-Project
+   git clone - https://github.com/salonipatidar3982-creator/Vite-Project
