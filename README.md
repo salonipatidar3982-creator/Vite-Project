@@ -20,7 +20,7 @@ This project focuses on clean UI design, reusable components, and mobile-first r
 
 <img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/746b6d04-c600-45c3-b6bf-f373e80516e7" />
 
-<img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/e22ff111-36b3-4d4f-b45b-ea1497da5281" />
+<img width="1920" height="1080" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/81c28612-a42a-4543-ae72-a2f0c6d9db12" />
 
 ## 🛠 Tech Stack
 - React
