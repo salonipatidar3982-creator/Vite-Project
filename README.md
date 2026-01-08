@@ -3,6 +3,8 @@
 A modern, responsive multi-page website built using **React** and **Tailwind CSS**.  
 This project focuses on clean UI design, reusable components, and mobile-first responsiveness.
 
+<img width="1920" height="1080" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/21f337cc-d0ef-4654-b8b2-9b3c50a77518" />
+
 <img width="1920" height="1080" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/f3d8fc51-18bf-4112-b757-fb1daa8bec15" />
 
 
