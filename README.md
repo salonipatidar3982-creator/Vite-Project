@@ -1,22 +1,25 @@
-# Project Name
-React + Tailwind CSS Website
+# 🌐 React + Tailwind CSS Website
 
-## Description
-This is a **responsive website** built with **React** and styled using **Tailwind CSS**.  
-- Fully responsive layout  
-- Modern UI using Tailwind utilities  
-- Multiple pages/components (e.g., Home, About, Contact)  
-- Built with React for a dynamic and component-based structure
+A modern, responsive multi-page website built using **React** and **Tailwind CSS**.  
+This project focuses on clean UI design, reusable components, and mobile-first responsiveness.
 
-## Features
-- React for interactive UI and component structure  
-- Tailwind CSS for styling  
-- Mobile-first, responsive design  
-- Reusable components for easy maintenance  
+## 🚀 Features
+- Fully responsive layout (mobile, tablet, desktop)
+- Modern UI using Tailwind CSS utilities
+- Multiple pages/components (Home, About, Contact)
+- Reusable and modular React components
+- Clean and maintainable code structure.
 
-## Installation / Setup
-To run the project locally:
+## 🛠 Tech Stack
+- React
+- JavaScript
+- Tailwind CSS
+- Vite
 
-1. Clone the repository:
-   ```bash
-   git clone - https://github.com/salonipatidar3982-creator/Vite-Project
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally:
+
+1. Clone the repository  
+```bash
+git clone https://github.com/salonipatidar3982-creator/Vite-Project.git
